@@ -1,9 +1,6 @@
 # concast
 ポッドキャスト編集のときに使っている自動化コード
 
-# コード
-
-
 ## データ
 
 ### json
@@ -12,11 +9,13 @@
 ### markers
 csv形式のチャプター情報
 
-## Javascript
+## コード
+
+### Javascript
 
 ZencastrのFootnoteをcsvに変換
 
-## Python
+### Python
 
 - tag_episode.py: エピソード(mp3)にチャプター情報を追加
 - post.py: ワードプレス投稿用のHTMLとSNS投稿用のテキストファイルを生成
